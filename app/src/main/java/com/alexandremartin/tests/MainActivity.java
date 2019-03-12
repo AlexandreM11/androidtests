@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int multiplyBy = 7;
+    private int multiplyBy = 8;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
